@@ -271,3 +271,4 @@ C:\Users\chimd\OneDrive\Desktop\dotnet\dotnet-mssql-crud-full-stack\obj\Debug\ne
 C:\Users\chimd\OneDrive\Desktop\dotnet\dotnet-mssql-crud-full-stack\obj\Debug\net9.0\MvcDemo25.Web.pdb
 C:\Users\chimd\OneDrive\Desktop\dotnet\dotnet-mssql-crud-full-stack\obj\Debug\net9.0\MvcDemo25.Web.genruntimeconfig.cache
 C:\Users\chimd\OneDrive\Desktop\dotnet\dotnet-mssql-crud-full-stack\obj\Debug\net9.0\ref\MvcDemo25.Web.dll
+C:\Users\chimd\OneDrive\Desktop\dotnet\dotnet-mssql-crud-full-stack\obj\Debug\net9.0\MvcDemo25.Web.sourcelink.json
